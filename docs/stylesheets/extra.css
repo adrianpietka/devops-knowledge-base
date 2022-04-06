@@ -1,0 +1,22 @@
+.image-circle {
+    border-radius: 500px;
+}
+
+.youtube {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.youtube iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.md-typeset figcaption {
+    margin: 1em auto 0.5em;
+}
