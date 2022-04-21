@@ -1,4 +1,4 @@
-site_name: Emphie - DevOps
+site_name: DevOpsTricks
 site_url: https://emphie.pl/devops
 site_description: Baza wiedzy, która pomoże Ci poznać tajniki DevOps.
 docs_dir: ./docs/
@@ -46,8 +46,8 @@ markdown_extensions:
 
 nav:
 - Zacznij tutaj: index.md
-- Linux: linux.md
-- Bash: bash.md
+- Linux: linux-cheatsheet.md
+- Bash: bash-cheatsheet.md
 - Cloud Computing: cloud-computing.md
 - AWS:
   - O AWS w skrócie: aws.md
@@ -56,11 +56,14 @@ nav:
   - SES - Amazon Simple Email Service: aws/ses.md
   - SQS - Amazon Simple Queue Service: aws/sqs.md
 - Narzędzia:
+  - Iptables: narzedzia/iptables.md
   - Kubernetes: narzedzia/kubernetes.md
+  - Klucze prywatne / publiczne: narzedzia/ssh.md
+  - SSH: narzedzia/keys.md
   - Terraform: narzedzia/terraform.md
 - Linki DevOps: links.md
 
-copyright: 2022 <a href="https://emphie.pl/devops">Emphie DevOps</a> &copy; <a href="https://adrianpietka.com">Adrian Piętka</a>.
+copyright: 2022 <a href="https://emphie.pl/devops">DevOpsTricks</a> &copy; <a href="https://adrianpietka.com">Adrian Piętka</a>.
 
 extra:
   social:
