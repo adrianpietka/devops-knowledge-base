@@ -56,6 +56,8 @@ nav:
   - SES - Amazon Simple Email Service: aws/ses.md
   - SQS - Amazon Simple Queue Service: aws/sqs.md
 - Narzędzia:
+  - Docker: narzedzia/docker.md
+  - Docker Compose: narzedzia/docker-compose.md
   - Iptables: narzedzia/iptables.md
   - Kubernetes: narzedzia/kubernetes.md
   - Klucze prywatne / publiczne: narzedzia/ssh.md
