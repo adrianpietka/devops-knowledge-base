@@ -8,6 +8,7 @@
 
 # Bazy wiedzy
 
+- [Tutorials Dojo](https://tutorialsdojo.com/) - baza wiedzy na temat Cloud Computing: **AWS**, **Azure**, **GCP**
 - [HackTricks - sztuczki/techniki związane z bezpieczeństwem](https://book.hacktricks.xyz/)
 - [Best practices when writing a Dockerfile for a Ruby application](https://lipanski.com/posts/dockerfile-ruby-best-practices#8-when-running-copy-or-add-as-a-different-user-use-chown) - wiele przypadków można zastosować również w innych technologiach
 - [Lista narzędzi wiersza poleceń (CLI)](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
