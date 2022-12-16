@@ -33,3 +33,15 @@ if [[ ! -f /tmp/foo.txt ]]; then
     echo "File not found!"
 fi
 ```
+
+*Na wypadek "nieobsłużonego" błędu - kończ natychmiast*
+
+```
+set -e
+```
+
+*Nie wykonuj jeśli znajdziesz niezaincjowaną zmienną*
+
+```
+set -u
+```
